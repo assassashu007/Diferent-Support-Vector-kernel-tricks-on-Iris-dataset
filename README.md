@@ -1,0 +1,1 @@
+# Diferent-Support-Vector-kernel-tricks-on-Iris-dataset
